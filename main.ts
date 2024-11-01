@@ -1,10 +1,9 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: Daly
+ * Created by: Daly Wei
  * Created on: Sep 2024
- * This program ...
+ * This program for show the light lightValue
  */
-
 
 
 // variables
